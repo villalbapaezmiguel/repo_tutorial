@@ -1,4 +1,4 @@
-print("HOla , mundo")
+print("Hola mundo desde Auxiliar")
 
 
 numero_uno = int(input("Ingrese un numero : "))
